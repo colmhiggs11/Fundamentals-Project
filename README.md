@@ -2,8 +2,6 @@
  
 # Fundamentals-Project
 
-This repository contains 
-
 ---
 
 <div align="center">
@@ -17,7 +15,7 @@ This repository contains
 ## Contents of this Repository
 This repository contains the Jupyter Notebook associated with the linear regression assignment to be completed as part of the Fundamentals of Data analysis module.
 
-* [README.md](https://github.com/colmhiggs11/Fundamentals-Project/blob/main/README.md)*
+* [README.md](https://github.com/colmhiggs11/Fundamentals-Project/blob/main/README.md)
 * [Funda_Linear_Regression.ipynb](https://github.com/colmhiggs11/numpy-random-assignment/blob/main/Programming%20for%20Data%20Analysis%20-%20%20numpy.random.ipynb) *(Jupyter Notebook containing the Linear Regression analysis in Python )*
 
 ## Juptyer Notebook
